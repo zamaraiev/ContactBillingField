@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: contact_billing_field.php:28
+msgid "No quiero que me llamen"
+msgstr "Translate this text"
+
+#: contact_billing_field.php:34
+msgid "Cómodo método de comunicación"
+msgstr "Translate this text"
+
+#: contact_billing_field.php:36
+msgid "Seleccione"
+msgstr "Translate this text"
+
+#: contact_billing_field.php:37
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: contact_billing_field.php:38
+msgid "Viber"
+msgstr "Viber"
+
+#: contact_billing_field.php:39
+msgid "Telegram"
+msgstr "Telegram"
+
+#: contact_billing_field.php:46
+msgid "Número de teléfono"
+msgstr "Translate this text"
+
+#: contact_billing_field.php:120
+msgid "Text for massage"
+msgstr "Translate tgis text"

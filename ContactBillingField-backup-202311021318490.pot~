@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Billing Field\n"
+"POT-Creation-Date: 2023-11-02 08:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: contact_billing_field.php:26
+msgid "No quiero que me llamen"
+msgstr ""
+
+#: contact_billing_field.php:33
+msgid "Cómodo método de comunicación"
+msgstr ""
+
+#: contact_billing_field.php:36
+msgid "Seleccione"
+msgstr ""
+
+#: contact_billing_field.php:39
+msgid "Whatsapp"
+msgstr ""
+
+#: your-plugin-folder/your-plugin-file.php:40
+msgid "Viber"
+msgstr ""
+
+#: your-plugin-folder/your-plugin-file.php:41
+msgid "Telegram"
+msgstr ""
+
+#: your-plugin-folder/your-plugin-file.php:44
+msgid "Número de teléfono"
+msgstr ""

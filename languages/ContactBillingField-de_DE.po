@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Contact Billing Field\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-08 18:52+0000\n"
+"PO-Revision-Date: 2023-11-08 18:56+0000\n"
+"Last-Translator: admin\n"
+"Language-Team: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2"
+
+#: contact_billing_field.php:28
+msgid "No quiero que me llamen"
+msgstr "Bitte rufen Sie mich nicht an"
+
+#: contact_billing_field.php:34
+msgid "Cómodo método de comunicación"
+msgstr "Eine bequeme Möglichkeit zur Kontaktaufnahme?"
+
+#: contact_billing_field.php:36
+msgid "Seleccione"
+msgstr "Wählen Sie"
+
+#: contact_billing_field.php:37
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: contact_billing_field.php:38
+msgid "Viber"
+msgstr "Viber"
+
+#: contact_billing_field.php:39
+msgid "Telegram"
+msgstr "Telegram"
+
+#: contact_billing_field.php:46
+msgid "Número de teléfono"
+msgstr "Geben Sie einen Kontakt an"
+
+#: contact_billing_field.php:120
+msgid "Text for massage"
+msgstr ""
+"Wir werden uns mit Ihnen auf dem von Ihnen angegebenen Weg in Verbindung "
+"setzen, um gegebenenfalls die Einzelheiten Ihrer Bestellung zu klären"
